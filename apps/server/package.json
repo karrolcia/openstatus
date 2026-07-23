@@ -51,7 +51,7 @@
     "@t3-oss/env-core": "0.13.10",
     "@unkey/api": "2.2.0",
     "@upstash/qstash": "2.6.2",
-    "hono": "4.11.3",
+    "hono": "4.12.27",
     "nanoid": "5.0.7",
     "percentile": "1.6.0",
     "validator": "13.12.0",
